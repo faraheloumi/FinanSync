@@ -74,10 +74,7 @@ The main function of the mobile application is to keep track of stocks, exchange
     </div> -->
     <br/>
     <div> 
-        <video width="320" height="240" controls>
-            <source src="assets/WhatsApp Video 2024-01-08 at 10.02.03.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video> 
+        <a href="assets/WhatsApp Video 2024-01-08 at 10.02.03.mp4" download>Download Video</a>
     </div>
     <br/>
     
