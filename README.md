@@ -1,10 +1,4 @@
 <a name="readme-top"></a>
-<div align="center">
-  
-[![LinkedIn][linkedin-shield]][linkedin-url]
-</div>
-
-
 <!-- PROJECT LOGO --> 
 <br />
 <div align="center">
