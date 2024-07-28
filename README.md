@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/faraheloumi/FinanSync">
-    <img src="finansync-main/assets/FinanSync-logos_transparent.svg" alt="Logo" width="256" height="256">
+    <img src="assets/FinanSync-logos_transparent.svg" alt="Logo" width="256" height="256">
   </a>
     <h1 style="font-size:50px">FruitVision
     </h1>
