@@ -19,7 +19,7 @@
     <h1 style="font-size:50px">FinanSync
     </h1>
   <p align="center">
-    track of stocks, exchange rates, and cryptocurrencies
+    Track of stocks, exchange rates, and cryptocurrencies
     <br />
     <br />
     <a href="https://github.com/faraheloumi/FinanSync/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
