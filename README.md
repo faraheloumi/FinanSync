@@ -45,17 +45,16 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 The main function of the mobile application is to keep track of stocks, exchange rates, and cryptocurrencies and provide a user-friendly platform for experienced investors and beginners to stay informed and make wise decisions.
 
 <br/>
-<div style="display:flex;flex-direction:column;justify-content:canter;" align="center">
+<div style="display:flex;flex-direction:column;justify-content:center;" align="center">
   
     <div>
         <img style="padding:10px;" src="https://github.com/faraheloumi/FinanSync/assets/demo.png" alt="pic3" height="400">   
-    </div> -->
+    </div>
     <br/>
     <div> 
         <a href="https://github.com/faraheloumi/FinanSync/assets/WhatsApp Video 2024-01-08 at 10.02.03.mp4" download>Download Video</a>
@@ -64,6 +63,7 @@ The main function of the mobile application is to keep track of stocks, exchange
     
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Features
 
