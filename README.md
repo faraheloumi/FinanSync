@@ -101,7 +101,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Contact
 
-Hiba Daoud - [@Hiba-Daoud][linkedin-url] - hiba.daoud@supcom.tn <br/>
+Farah Elloumi- [@Farah Elloumi][linkedin-url] - farah.elloumi@supcom.tn <br/>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
