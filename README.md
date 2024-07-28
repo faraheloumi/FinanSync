@@ -16,10 +16,10 @@
   <a href="https://github.com/faraheloumi/FinanSync">
     <img src="assets/FinanSync-logos_transparent.svg" alt="Logo" width="350" height="300">
   </a>
-    <h1 style="font-size:50px">FruitVision
+    <h1 style="font-size:50px">FinanSync
     </h1>
   <p align="center">
-    Automate Fruit Counting
+    track of stocks, exchange rates, and cryptocurrencies
     <br />
     <br />
     <a href="https://github.com/hibadaoud/FruitVision/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This application leverages artificial intelligence to accurately count the number of fruits on a tree from images. It is designed to aid researchers and agricultural professionals by simplifying the process of yield estimation and crop management, thus providing valuable insights for agricultural decisions.
+The main function of the mobile application is to keep track of stocks, exchange rates, and cryptocurrencies and provide a user-friendly platform for experienced investors and beginners to stay informed and make wise decisions.
 
 <br/>
 <div style="display:flex;flex-direction:column;justify-content:canter;" align="center">
