@@ -38,7 +38,6 @@
     <li><a href="#features">Features</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -92,10 +91,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -106,15 +101,5 @@ Farah Elloumi- [@Farah Elloumi][linkedin-url] - farah.elloumi@supcom.tn <br/>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/hibadaoud/FruitVision.svg?style=for-the-badge
-[contributors-url]: https://github.com/faraheloumi/FinanSync/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/hibadaoud/FruitVision.svg?style=for-the-badge
-[forks-url]: https://github.com/faraheloumi/FinanSync/network/members
-[stars-shield]: https://img.shields.io/github/stars/hibadaoud/FruitVision.svg?style=for-the-badge
-[stars-url]: https://github.com/faraheloumi/FinanSync/stargazers
-[issues-shield]: https://img.shields.io/github/issues/hibadaoud/FruitVision.svg?style=for-the-badge
-[issues-url]:https://github.com/faraheloumi/FinanSync/issues
-[license-shield]: https://img.shields.io/github/license/hibadaoud/FruitVision.svg?style=for-the-badge
-[license-url]: https://github.com/faraheloumi/FinanSync/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/farah-elloumi-735ab1269/
