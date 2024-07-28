@@ -54,11 +54,11 @@ The main function of the mobile application is to keep track of stocks, exchange
 <div style="display:flex;flex-direction:column;justify-content:canter;" align="center">
   
     <div>
-        <img style="padding:10px;" src="assets/demo.png" alt="pic3" height="400">   
+        <img style="padding:10px;" src="https://github.com/faraheloumi/FinanSync/assets/demo.png" alt="pic3" height="400">   
     </div> -->
     <br/>
     <div> 
-        <a href="assets/WhatsApp Video 2024-01-08 at 10.02.03.mp4" download>Download Video</a>
+        <a href="https://github.com/faraheloumi/FinanSync/assets/WhatsApp Video 2024-01-08 at 10.02.03.mp4" download>Download Video</a>
     </div>
     <br/>
     
