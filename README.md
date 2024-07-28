@@ -22,9 +22,9 @@
     track of stocks, exchange rates, and cryptocurrencies
     <br />
     <br />
-    <a href="https://github.com/hibadaoud/FruitVision/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/faraheloumi/FinanSync/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/hibadaoud/FruitVision/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/faraheloumi/FinanSync/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -53,26 +53,15 @@ The main function of the mobile application is to keep track of stocks, exchange
 <br/>
 <div style="display:flex;flex-direction:column;justify-content:canter;" align="center">
     <div>  
-        <img style="padding:10px;" src="https://github.com/hibadaoud/FruitVision/assets/153644549/a14a6abe-f49c-403e-a9b1-225616b11194" alt="pic1" height="400">
-<!--         <img style="padding:10px;" src="https://github.com/hibadaoud/FruitVision/assets/153644549/86dc13e8-df93-4ee0-8b74-7595cbae113b" alt="Login and signup" height="400">
-        <img style="padding:10px;" src="https://github.com/hibadaoud/FruitVision/assets/153644549/b3516cc3-544f-4091-83bf-4038d0fc029b" alt="settings" height="400">   -->
+       <a href="assets/WhatsApp Video 2024-01-08 at 10.02.03.mp4" download>Download Video</a>
+        <!-- Pour afficher la vidéo en ligne, vous pouvez utiliser la balise <video> -->
+        <video width="320" height="240" controls>
+            <source src="assets/WhatsApp Video 2024-01-08 at 10.02.03.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video> 
     </div>
     <br/>
-    <div>
-        <img style="padding:10px;" src="https://github.com/hibadaoud/FruitVision/assets/153644549/b0d97f9c-db2d-4660-969b-60bf6aa8744c" alt="pic2" height="400">    
-<!--         <img style="padding:10px;" src="https://github.com/hibadaoud/FruitVision/assets/153644549/c69c97bb-d3bd-4dc2-a207-bc1625fd27cd" alt="Prediction History" height="400">
-    </div> -->
-    <br/>
-    <div>
-        <img style="padding:10px;" src="https://github.com/hibadaoud/FruitVision/assets/153644549/678e4631-0f33-4211-8843-f0915ec5c632" alt="pic3" height="400">    
-<!--         <img style="padding:10px;" src="https://github.com/hibadaoud/FruitVision/assets/153644549/c69c97bb-d3bd-4dc2-a207-bc1625fd27cd" alt="Prediction History" height="400">
-    </div> -->
-    <br/>
-    <div>
-        <img style="padding:10px;" src="https://github.com/hibadaoud/FruitVision/assets/153644549/605465c4-cb6e-4d1e-8d78-e3db9b27bfde" alt="pic3" height="400">    
-<!--         <img style="padding:10px;" src="https://github.com/hibadaoud/FruitVision/assets/153644549/c69c97bb-d3bd-4dc2-a207-bc1625fd27cd" alt="Prediction History" height="400">
-    </div> -->
-    <br/>
+    
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
