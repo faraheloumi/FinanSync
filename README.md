@@ -67,10 +67,7 @@ The main function of the mobile application is to keep track of stocks, exchange
 
 
 ## Features
-
-- **AI-Powered Fruit Detection**: Uses advanced deep learning models to identify and count fruits accurately.
 - **User-Friendly Interface**: Features an easy-to-use interface that allows users to quickly upload images and get counts in real-time.
-- **Data Analysis Tools**: Includes functionality to analyze and export data for further agricultural planning and analysis.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Installation
@@ -110,14 +107,14 @@ Hiba Daoud - [@Hiba-Daoud][linkedin-url] - hiba.daoud@supcom.tn <br/>
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/hibadaoud/FruitVision.svg?style=for-the-badge
-[contributors-url]: https://github.com/hibadaoud/FruitVision/graphs/contributors
+[contributors-url]: https://github.com/faraheloumi/FinanSync/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/hibadaoud/FruitVision.svg?style=for-the-badge
-[forks-url]: https://github.com/hibadaoud/FruitVision/network/members
+[forks-url]: https://github.com/faraheloumi/FinanSync/network/members
 [stars-shield]: https://img.shields.io/github/stars/hibadaoud/FruitVision.svg?style=for-the-badge
-[stars-url]: https://github.com/hibadaoud/FruitVision/stargazers
+[stars-url]: https://github.com/faraheloumi/FinanSync/stargazers
 [issues-shield]: https://img.shields.io/github/issues/hibadaoud/FruitVision.svg?style=for-the-badge
-[issues-url]: https://github.com/hibadaoud/FruitVision/issues
+[issues-url]:https://github.com/faraheloumi/FinanSync/issues
 [license-shield]: https://img.shields.io/github/license/hibadaoud/FruitVision.svg?style=for-the-badge
-[license-url]: https://github.com/hibadaoud/FruitVision/blob/master/LICENSE.txt
+[license-url]: https://github.com/faraheloumi/FinanSync/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/hiba-daoud-8598a0245/
+[linkedin-url]: https://www.linkedin.com/in/farah-elloumi-735ab1269/
