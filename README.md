@@ -2,11 +2,11 @@
 <!-- PROJECT LOGO --> 
 <br />
 <div align="center">
+  <h1 style="font-size:50px">FinanSync
+    </h1>
   <a href="https://github.com/faraheloumi/FinanSync">
     <img src="assets/FinanSync-logos_transparent.svg" alt="Logo" width="350" height="300">
   </a>
-    <h1 style="font-size:50px">FinanSync
-    </h1>
   <p align="center">
     Track of stocks, exchange rates, and cryptocurrencies
     <br />
